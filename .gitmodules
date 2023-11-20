@@ -1,3 +1,7 @@
 [submodule "foundry-simple-storage"]
 	path = foundry-simple-storage
 	url = https://github.com/bhavyagor12/foundry-example
+
+[submodule "foundry-fundme"]
+	path = foundry-fundme
+	url = https://github.com/bhavyagor12/foundry-fundme
